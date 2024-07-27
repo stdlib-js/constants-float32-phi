@@ -63,7 +63,7 @@ The [golden ratio][phi] can be defined algebraically as
 ## Usage
 
 ```javascript
-import FLOAT32_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-phi@esm/index.mjs';
+import FLOAT32_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-phi@v0.0.2-esm/index.mjs';
 ```
 
 #### FLOAT32_PHI
@@ -93,7 +93,7 @@ var bool = ( FLOAT32_PHI === 1.6180340051651 );
 <body>
 <script type="module">
 
-import FLOAT32_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-phi@esm/index.mjs';
+import FLOAT32_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-phi@v0.0.2-esm/index.mjs';
 
 console.log( FLOAT32_PHI );
 // => 1.6180340051651
