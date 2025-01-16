@@ -174,6 +174,12 @@ Macro for the [golden ratio][phi-value].
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/phi`][@stdlib/constants/float64/phi]</span><span class="delimiter">: </span><span class="description">golden ratio.</span>
+
 </section>
 
 <!-- /.related -->
@@ -204,7 +210,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -253,6 +259,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [phi]: https://en.wikipedia.org/wiki/Golden_ratio
 
 [phi-value]: http://oeis.org/A001622
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/phi]: https://github.com/stdlib-js/constants-float64-phi
+
+<!-- </related-links> -->
 
 </section>
 
