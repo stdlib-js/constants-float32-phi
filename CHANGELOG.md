@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e478830`](https://github.com/stdlib-js/stdlib/commit/e478830dbde462b7feb1d37b4e44a384d2a28c91) - **test:** fix precision qualifier in test descriptions [(#13172)](https://github.com/stdlib-js/stdlib/pull/13172) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.3">
 
 ## 0.0.3 (2026-02-08)
