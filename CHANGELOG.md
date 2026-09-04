@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-29)
+## Unreleased (2026-09-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f10ea71`](https://github.com/stdlib-js/stdlib/commit/f10ea71b1b7528348cdda654baa4a7541c6a0ba2) - **chore:** add keyword [(#14976)](https://github.com/stdlib-js/stdlib/pull/14976) _(by Philipp Burckhardt)_
 -   [`e478830`](https://github.com/stdlib-js/stdlib/commit/e478830dbde462b7feb1d37b4e44a384d2a28c91) - **test:** fix precision qualifier in test descriptions [(#13172)](https://github.com/stdlib-js/stdlib/pull/13172) _(by Philipp Burckhardt)_
 
 </details>
